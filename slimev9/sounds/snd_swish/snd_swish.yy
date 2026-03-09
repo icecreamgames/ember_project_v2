@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_swish",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.6457143,
+  "name":"snd_swish",
+  "parent":{
+    "name":"slimev9",
+    "path":"slimev9.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_swish.mp3",
+  "type":0,
+  "volume":1.0,
+}
